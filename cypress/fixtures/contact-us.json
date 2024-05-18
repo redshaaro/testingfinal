@@ -1,0 +1,12 @@
+{
+  "contactUsURL": "https://www.webdriveruniversity.com/Contact-Us/contactus.html",
+  "firstName": "zeyad",
+  "lastName": "elshaarawy",
+  "email": "shaarawyziad@gmail.com",
+  "message": "hello world",
+  "successMessage":"Thank You for your Message!",
+  "errorMessage":"Error: all fields are required"
+
+
+
+}
